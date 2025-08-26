@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋, I'm Bavya  
 
 🚀 CCE Undergrad | ML Enthusiast | Full-Stack Developer | IoT Explorer  
