@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Bavya  
 
-🚀 CS Undergrad | ML Enthusiast | Full-Stack Developer | IoT Explorer  
+🚀 CCE Undergrad | ML Enthusiast | Full-Stack Developer | IoT Explorer  
 
 🌱 I’m currently working on:  
 - Training & Placement Management System (TAPMS)  
