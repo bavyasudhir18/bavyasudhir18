@@ -7,7 +7,7 @@
 - BigMart Sales Prediction (XGBoost + Django)  
 - Smart Door Lock (IoT + Face Recognition)  
 
-💡 Interests: Machine Learning, Signal Processing, Web Development, IoT  
+💡 Interests: Machine Learning, Web Development, Data Science
 
 ---
 
@@ -30,14 +30,8 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
----
-
 ## 📫 Connect with me
-- [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- 📧 Email: yourname@email.com  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
+- [LinkedIn](https://www.linkedin.com/in/bavya-sudhir/)  
+- 📧 Email: bavyasudhir18@email.com  
+ 
 
